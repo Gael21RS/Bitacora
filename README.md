@@ -1,6 +1,6 @@
 # Bitácora de Hipertrofia
 
-App web instalable (PWA) para entrenar hipertrofia con evidencia: programa por mesociclos, registro de series con progresión automática, nutrición que se calibra con tu peso real y sincronización opcional entre dispositivos vía un gist privado de GitHub.
+App web instalable (PWA) para entrenar hipertrofia con evidencia: rutina a medida por mesociclos, guía de cada ejercicio con figura animada y mapa muscular, registro de series con progresión automática, chequeo diario que ajusta tu sesión, diario de comidas con platos locales, niveles y medallas, y sincronización opcional entre dispositivos vía un gist privado de GitHub.
 
 Funciona sin conexión. Tus datos se guardan en cada dispositivo; este repositorio solo contiene la app.
 

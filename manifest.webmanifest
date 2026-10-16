@@ -2,15 +2,15 @@
  "id": "bitacora-hipertrofia",
  "name": "Bitácora de Hipertrofia",
  "short_name": "Bitácora",
- "description": "Programa de hipertrofia basado en evidencia, registro de series con progresión automática y nutrición que se calibra con tu peso real.",
+ "description": "Tu cuaderno de hipertrofia: rutina a medida, técnica de cada ejercicio con figura animada, registro de series con progresión automática, diario de comidas y niveles con medallas.",
  "lang": "es",
  "dir": "ltr",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
  "orientation": "any",
- "background_color": "#11161C",
- "theme_color": "#11161C",
+ "background_color": "#3E0A18",
+ "theme_color": "#5A1226",
  "categories": [
   "health",
   "fitness",
@@ -74,21 +74,21 @@
    "sizes": "780x1688",
    "type": "image/webp",
    "form_factor": "narrow",
-   "label": "Registra cada serie: la app te dice qué peso usar hoy"
+   "label": "Tu sesión de hoy con los músculos que trabajas"
   },
   {
    "src": "captura-nutricion.webp",
    "sizes": "780x1688",
    "type": "image/webp",
    "form_factor": "narrow",
-   "label": "Calorías y macros que se calibran con tu peso real"
+   "label": "Anota lo que comes y mira tus calorías y proteína"
   },
   {
    "src": "captura-progreso.webp",
    "sizes": "780x1688",
    "type": "image/webp",
    "form_factor": "narrow",
-   "label": "Tendencia de peso, fuerza y volumen semanal"
+   "label": "Sube de nivel y gana medallas con cada sesión"
   },
   {
    "src": "captura-escritorio.webp",
@@ -102,7 +102,7 @@
    "sizes": "1280x800",
    "type": "image/webp",
    "form_factor": "wide",
-   "label": "Mesociclo de 6 semanas basado en evidencia"
+   "label": "Rutina a medida según tu objetivo, tus días y tu equipo"
   }
  ]
 }
