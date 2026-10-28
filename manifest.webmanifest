@@ -2,15 +2,15 @@
  "id": "bitacora-hipertrofia",
  "name": "Bitácora de Hipertrofia",
  "short_name": "Bitácora",
- "description": "Tu cuaderno de hipertrofia: rutina a medida, técnica de cada ejercicio con figura animada, registro de series con progresión automática, diario de comidas y niveles con medallas.",
+ "description": "Tu cuaderno de hipertrofia por GRS: rutina a medida y editable, más de 200 ejercicios con figura animada, descansos según la evidencia, registro de series con progresión automática, diario de comidas y niveles con medallas.",
  "lang": "es",
  "dir": "ltr",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
  "orientation": "any",
- "background_color": "#3E0A18",
- "theme_color": "#5A1226",
+ "background_color": "#A8E985",
+ "theme_color": "#F2F7EF",
  "categories": [
   "health",
   "fitness",
@@ -74,7 +74,7 @@
    "sizes": "780x1688",
    "type": "image/webp",
    "form_factor": "narrow",
-   "label": "Tu sesión de hoy con los músculos que trabajas"
+   "label": "Tu sesión de hoy con los músculos que trabajas y el descanso de cada ejercicio"
   },
   {
    "src": "captura-nutricion.webp",
@@ -102,7 +102,7 @@
    "sizes": "1280x800",
    "type": "image/webp",
    "form_factor": "wide",
-   "label": "Rutina a medida según tu objetivo, tus días y tu equipo"
+   "label": "Rutina a medida que puedes editar: quita, añade y ordena ejercicios"
   }
  ]
 }

@@ -1,5 +1,5 @@
 // Bitácora de Hipertrofia · service worker (app shell sin conexión)
-const V='bitacora-f016edccc1';
+const V='bitacora-a638ee609d';
 const ASSETS=["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./maskable-192.png", "./maskable-512.png", "./apple-touch-icon.png", "./favicon-32.png", "./shortcut-hoy-96.png", "./shortcut-peso-96.png"];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(ASSETS.map(u=>new Request(u,{cache:'reload'})))))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k.startsWith('bitacora-')&&k!==V).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
