@@ -2,7 +2,7 @@
  "id": "bitacora-hipertrofia",
  "name": "Bitácora de Hipertrofia",
  "short_name": "Bitácora",
- "description": "Tu cuaderno de hipertrofia por GRS: rutina a medida y editable, más de 200 ejercicios con figura animada, descansos según la evidencia, registro de series con progresión automática, diario de comidas y niveles con medallas.",
+ "description": "Tu cuaderno de hipertrofia por GRS: rutina a medida y editable, más de 200 ejercicios con figura animada, descansos según la evidencia con una alarma que suena hasta que la detienes, registro de series con progresión automática, diario de comidas y niveles con medallas.",
  "lang": "es",
  "dir": "ltr",
  "start_url": "./",
